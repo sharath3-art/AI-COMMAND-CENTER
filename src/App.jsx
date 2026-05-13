@@ -29,7 +29,7 @@ export default function WifiProviderLanding() {
       <nav className="relative z-10 flex items-center justify-between px-6 py-5 border-b border-white/10 backdrop-blur-xl">
         <div>
           <h1 className="text-2xl font-bold tracking-wide">
-            HEMNARS<span className="text-cyan-400">NET</span>
+            netrun<span className="text-cyan-400">NET</span>
           </h1>
         </div>
 
@@ -58,7 +58,7 @@ export default function WifiProviderLanding() {
           </h2>
 
           <p className="text-gray-400 text-lg leading-relaxed max-w-xl mb-8">
-            Experience blazing fast speeds, zero buffering, and seamless connectivity powered by HemnarsNet advanced fiber infrastructure.
+            Experience blazing fast speeds, zero buffering, and seamless connectivity powered by netrunNet advanced fiber infrastructure.
           </p>
 
           <div className="flex flex-wrap gap-4">
@@ -176,7 +176,7 @@ export default function WifiProviderLanding() {
               </h2>
 
               <p className="text-gray-400 text-lg leading-relaxed mb-8">
-                HemnarsNet is rapidly expanding across cities with next-generation fiber infrastructure.
+                netrunNet is rapidly expanding across cities with next-generation fiber infrastructure.
               </p>
 
               <div className="flex gap-4 flex-wrap">
@@ -205,7 +205,7 @@ export default function WifiProviderLanding() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
           <div>
             <h3 className="text-2xl font-bold">
-              HEMNARS<span className="text-cyan-400">NET</span>
+              netrun<span className="text-cyan-400">NET</span>
             </h3>
             <p className="text-gray-500 mt-2">
               Next-generation fiber internet infrastructure.
